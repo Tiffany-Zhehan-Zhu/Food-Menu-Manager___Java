@@ -1,6 +1,6 @@
 # Food Menu Manager
 
-This is a food menu manager application with its Graphical User Interface that allow users to create daily food menus.
+This is a food menu manager application with its graphical user interface that allow users to create daily food menus.
 
 Functions include:
 * Reads all types of dishes from a single file
